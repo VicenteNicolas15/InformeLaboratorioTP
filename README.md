@@ -32,3 +32,5 @@ mandar a comprar unos nuevos seria buena idea o talvez arreglar los ya mencionad
 
 8-El espacio que presenta la sala se encuentra reducido por tener mesas en los laterales y mesas en medio de la sala
 pero eso se arreglaria si ponen los computadores en medio y sacan las mesas laterales.
+
+Exceptuando los ya mencionados no haria mas cambios al laboratorio.
