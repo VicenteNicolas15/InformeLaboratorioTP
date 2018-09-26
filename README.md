@@ -33,4 +33,7 @@ mandar a comprar unos nuevos seria buena idea o talvez arreglar los ya mencionad
 8-El espacio que presenta la sala se encuentra reducido por tener mesas en los laterales y mesas en medio de la sala
 pero eso se arreglaria si ponen los computadores en medio y sacan las mesas laterales.
 
+9-Se encuentran gran cantidad de ordenadores para una cantidad pequeña de alumnos
+como por ejemplo en esta sala hay 23 computadores y actualmente hay 9 alumnos .
+
 Exceptuando los ya mencionados no haria mas cambios al laboratorio.
